@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">User List from GitHub</string>
+    <string name="search">Search</string>
+</resources>
