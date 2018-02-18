@@ -7,7 +7,6 @@ public class ViewModel  {
     private String name;
     private float score;
 
-
     public String getName() {
         return name;
     }
